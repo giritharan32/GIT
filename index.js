@@ -1,5 +1,4 @@
-console.log("this is a complete git course");
-
+console.log("this is a complete git playlist");
 for(var i=0;i<3;i++){
-    console.log("giri");
+    comsole.log("giri");
 }
